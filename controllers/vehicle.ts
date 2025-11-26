@@ -22,21 +22,9 @@ export const getVehicles = async( req: Request, res: Response ) => {
       Vehicle.distinct("type"),
     ]);
 
-    const cleanVehicles = vehicles.map(v => {
-      return {
-        ...v,
-        colors: v.colors.map(c => ({
-          ...c,
-          _id: undefined,
-          images: c.images.map(img => ({ url: img.url, alt: img.alt }))
-        }))
-      };
-    });
-
-
     return res.json({
       total: total,
-      data: cleanVehicles,
+      data: vehicles,
       brands: brands,
       types: types,
     });
