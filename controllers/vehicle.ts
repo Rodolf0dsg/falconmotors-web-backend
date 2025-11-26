@@ -1,6 +1,6 @@
 import { Request, Response } from "express";
 import { Vehicle } from "../models/Vehicle";
-import vehicleSeedData from "../data/vehicles.json";
+import vehicleSeedData from "../data/data.json";
 
 export const getVehicles = async( req: Request, res: Response ) => {
 
