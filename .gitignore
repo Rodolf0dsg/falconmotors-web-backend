@@ -4,3 +4,4 @@ node_modules
 dist
 .vscode
 data/vehicles.json
+querys/
