@@ -10,7 +10,22 @@ export const getVehicles = async( req: Request, res: Response ) => {
   const limit = Number.isFinite(limitRaw) && limitRaw > 0 ? Math.min(limitRaw, 50) : 9;
   const offset = Number.isFinite(offsetRaw) && offsetRaw >= 0 ? offsetRaw : 0;
 
+  const brand = typeof req.query.brand === "string" && req.query.brand.trim() !== ""
+    ? req.query.brand.trim()
+    : undefined;
+
+  const type = typeof req.query.type === "string" && req.query.type.trim() !== ""
+    ? req.query.type.trim()
+    : undefined;
+
   const query: Record<string, any> = {};
+  if (req.query.brand) {
+    query.brand = req.query.brand;
+  }
+  if (req.query.type) {
+    query.type = req.query.type;
+  }
+
   // const sort = { createdAt: -1 }; //TODO: implementar si necesario recientes primero
 
   try {
@@ -27,6 +42,7 @@ export const getVehicles = async( req: Request, res: Response ) => {
       data: vehicles,
       brands: brands,
       types: types,
+      pages: Math.ceil(total / limit)
     });
     
   } catch (error) {
