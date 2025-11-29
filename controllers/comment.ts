@@ -1,6 +1,7 @@
 import { Request, Response } from "express";
 import { Comment } from "../models/Comment";
 import { badWords } from "../data/badWords";
+import mongoose from "mongoose";
 
 export const getComments = async (req: Request, res: Response) => {
   try {
@@ -8,6 +9,12 @@ export const getComments = async (req: Request, res: Response) => {
     return res.json({ data: comments });
   } catch (error) {
     console.error(error);
+    if (error instanceof mongoose.Error.ValidationError) {
+      return res.status(400).json({
+        msg: "Error al obtener comentarios",
+        error: error.message,
+      });
+    }
     return res.status(500).json({ msg: "Error al obtener comentarios" });
   }
 };
@@ -43,6 +50,12 @@ export const createComment = async (req: Request, res: Response) => {
     return res.status(201).json(comment);
   } catch (error) {
     console.error(error);
+    if (error instanceof mongoose.Error.ValidationError) {
+      return res.status(400).json({
+        msg: "Error al publicar comentario",
+        error: error.message,
+      });
+    }
     return res.status(500).json({ msg: "Error al crear comentario" });
   }
 };
@@ -60,6 +73,12 @@ export const deleteComment = async (req: Request, res: Response) => {
 
   } catch (error) {
     console.error(error);
+    if (error instanceof mongoose.Error.ValidationError) {
+      return res.status(400).json({
+        msg: "Error al eliminar comentario",
+        error: error.message,
+      });
+    }
     return res.status(500).json({ msg: "Error al eliminar comentario" });
   }
 }

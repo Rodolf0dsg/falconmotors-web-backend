@@ -1,6 +1,7 @@
 import { Request, Response } from "express";
 import { Vehicle } from "../models/Vehicle";
 import vehicleSeedData from "../data/data.json";
+import mongoose from "mongoose";
 
 function escapeRegex(input: string) {
   return input.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
@@ -97,6 +98,12 @@ export const getVehicles = async( req: Request, res: Response ) => {
     
   } catch (error) {
     console.error(error);
+    if (error instanceof mongoose.Error.ValidationError) {
+      return res.status(400).json({
+        msg: "Error al obtener",
+        error: error.message,
+      });
+    }
     return res.status(500).json({ msg: "Error al obtener vehículos" });
   };
 };
@@ -117,6 +124,12 @@ export const getVehicleById = async( req: Request, res: Response ) => {
     
   } catch (error) {
     console.error(error);
+    if (error instanceof mongoose.Error.ValidationError) {
+      return res.status(400).json({
+        msg: "Error al obtener",
+        error: error.message,
+      });
+    }
     return res.status(500).json({ msg: "Error al obtener vehículos" });
   }
 }
@@ -129,7 +142,17 @@ export const createVehicle = async( req: Request, res: Response ) => {
     return res.status(201).json(vehicle);
   } catch (error) {
     console.error(error);
-    return res.status(500).json({ msg: "Error al crear vehículo" });
+
+    if (error instanceof mongoose.Error.ValidationError) {
+      return res.status(400).json({
+        msg: "Error de validación al crear vehículo",
+        error: error.message,
+      });
+    }
+
+    return res.status(500).json({ 
+      msg: "Error al crear vehículo",
+    });
   }
 }
 
@@ -141,6 +164,12 @@ export const SEED = async( req: Request, res: Response ) => {
     return res.status(201).json({ msg: "SEED EXECUTED" });
   } catch (error) {
     console.error(error);
+    if (error instanceof mongoose.Error.ValidationError) {
+      return res.status(400).json({
+        msg: "Error de seed",
+        error: error.message,
+      });
+    }
     return res.status(500).json({ msg: "Error al sembrar datos" });
   }
 }
