@@ -8,15 +8,15 @@ interface IImage {
 
 // Subdocumento para opciones de color
 interface IColorOption {
-  name: string;   // Ej: "Rojo"
-  code: string;   // Ej: "rgb(217, 4, 41)"
+  name: string;
+  code: string;
   images: IImage[];
   _id: boolean;
 }
 
 const ColorOptionSchema = new Schema<IColorOption>({
-  name: { type: String, required: true }, // Ej: "Rojo"
-  code: { type: String, required: true }, // Ej: "rgb(217, 4, 41)"
+  name: { type: String, required: true },
+  code: { type: String, required: true },
   images: [{ url: String, alt: String, _id: false }],
   _id: false,
 });
@@ -41,7 +41,8 @@ const VehicleSchema = new Schema({
 
   // Galería organizada por color
   colors: [ColorOptionSchema],
-  features: { type: [String], default: [] }
+  features: { type: [String], default: [] },
+  description: { type: String }
 }, { timestamps: true });
 
 export type VehicleType = InferSchemaType<typeof VehicleSchema>;

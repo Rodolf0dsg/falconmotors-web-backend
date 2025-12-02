@@ -23,7 +23,6 @@ export const createComment = async (req: Request, res: Response) => {
   try {
     const { name, stars, text } = req.body;
 
-    // Validaciones adicionales
     if (!name || !stars || !text) {
       return res.status(400).json({ msg: "Todos los campos son obligatorios" });
     }
@@ -32,15 +31,18 @@ export const createComment = async (req: Request, res: Response) => {
       return res.status(400).json({ msg: "Las estrellas deben estar entre 1 y 5" });
     }
 
-    //groserías
     const normalize = (str: string) =>
       str.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 
-    const hasBadWords = badWords.some(word =>
+    const textHasBadWords = badWords.some(word =>
       normalize(text).includes(normalize(word))
     );
 
-    if (hasBadWords) {
+    const nameHasBadWords = badWords.some(word =>
+      normalize(name).includes(normalize(word))
+    );
+
+    if (textHasBadWords || nameHasBadWords) {
       return res.status(400).json({ msg: "El comentario contiene lenguaje inapropiado" });
     }
 

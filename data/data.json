@@ -1,0 +1,1457 @@
+[
+    {
+        "brand": "JMC",
+        "vehicleModel": "Grand Avenue",
+        "year": 2025,
+        "mileage": 0,
+        "price": 0,
+        "transmission": "Automatica",
+        "sold": false,
+        "used": false,
+        "horsePower": 250,
+        "type": "Pick-up Doble Cabina",
+        "motor": "Ford Puma 2.3L",
+        "typeOfOil": "Gasolina",
+        "colors": [
+            {
+                "name": "Blanco",
+                "code": "rgba(255, 255, 255, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+GrandAvenue+1",
+                        "alt": "Vista frontal Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+GrandAvenue+2",
+                        "alt": "Vista derecha Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+GrandAvenue+3",
+                        "alt": "Vista izquierda Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+GrandAvenue+4",
+                        "alt": "Vista trasera Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+GrandAvenue+5",
+                        "alt": "Vista interio Blanca"
+                    }
+                ]
+            },
+            {
+                "name": "Gris",
+                "code": "rgb(33, 37, 41)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+GrandAvenue+1",
+                        "alt": "Vista frontal   Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+GrandAvenue+2",
+                        "alt": "Vista derecha   Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+GrandAvenue+3",
+                        "alt": "Vista izquierda Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+GrandAvenue+4",
+                        "alt": "Vista trasera   Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+GrandAvenue+5",
+                        "alt": "Vista interio   Gris"
+                    }
+                ]
+            },
+            {
+                "name": "Negro",
+                "code": "rgba(0, 0, 0, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+GrandAvenue+1",
+                        "alt": "Vista frontal   Negra"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+GrandAvenue+2",
+                        "alt": "Vista derecha   Negra"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+GrandAvenue+3",
+                        "alt": "Vista izquierda Negra"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+GrandAvenue+4",
+                        "alt": "Vista trasera   Negra"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+GrandAvenue+5",
+                        "alt": "Vista interio   Negra"
+                    }
+                ]
+            }
+        ],
+        "features": [
+            "Capacidad de carga 1000 Kg",
+            "Incluye placa"
+        ]
+    },
+    {
+        "brand": "JMC",
+        "vehicleModel": "All New Vigus Pro",
+        "year": 2025,
+        "mileage": 0,
+        "price": 0,
+        "transmission": "Manual",
+        "sold": false,
+        "used": false,
+        "horsePower": 180,
+        "type": "Pick-up Doble Cabina",
+        "motor": "Ford Puma 1.8L",
+        "typeOfOil": "Gasolina",
+        "colors": [
+            {
+                "name": "Blanco",
+                "code": "rgba(255, 255, 255, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+AllNewVigusPro+1",
+                        "alt": "Vista frontal Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+AllNewVigusPro+2",
+                        "alt": "Vista derecha Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+AllNewVigusPro+3",
+                        "alt": "Vista izquierda Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+AllNewVigusPro+4",
+                        "alt": "Vista trasera Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+AllNewVigusPro+5",
+                        "alt": "Vista interio Blanca"
+                    }
+                ]
+            },
+            {
+                "name": "Gris Claro",
+                "code": "rgba(128, 132, 136, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_claro+GrandAvenue+1",
+                        "alt": "Vista frontal   Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_claro+GrandAvenue+2",
+                        "alt": "Vista derecha   Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_claro+GrandAvenue+3",
+                        "alt": "Vista izquierda Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_claro+GrandAvenue+4",
+                        "alt": "Vista trasera   Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_claro+GrandAvenue+5",
+                        "alt": "Vista interio   Gris"
+                    }
+                ]
+            }
+        ],
+        "features": [
+            "Incluye placa"
+        ]
+    },
+    {
+        "brand": "JIM",
+        "vehicleModel": "Re-MAX",
+        "year": 2025,
+        "mileage": 0,
+        "price": 0,
+        "transmission": "Manual",
+        "sold": false,
+        "used": false,
+        "horsePower": 215,
+        "type": "Pick-up Doble Cabina",
+        "motor": "Mitsubishi GTDI 1.8L",
+        "typeOfOil": "Gasolina",
+        "colors": [
+            {
+                "name": "Blanco",
+                "code": "rgba(255, 255, 255, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JimReMax+1",
+                        "alt": "Vista frontal Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JimReMax+2",
+                        "alt": "Vista derecha Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JimReMax+3",
+                        "alt": "Vista izquierda Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JimReMax+4",
+                        "alt": "Vista trasera Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JimReMax+5",
+                        "alt": "Vista interio Blanca"
+                    }
+                ]
+            },
+            {
+                "name": "Azul Oscuro",
+                "code": "rgba(1, 26, 165, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=azul_ocuro+JimReMax+1",
+                        "alt": "Vista frontal   Azul oscuro"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=azul_ocuro+JimReMax+2",
+                        "alt": "Vista derecha   Azul oscuro"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=azul_ocuro+JimReMax+3",
+                        "alt": "Vista izquierda Azul oscuro"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=azul_ocuro+JimReMax+4",
+                        "alt": "Vista trasera   Azul oscuro"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=azul_ocuro+JimReMax+5",
+                        "alt": "Vista interio   Azul oscuro"
+                    }
+                ]
+            }
+        ],
+        "features": [
+            "Incluye placa",
+            "Capacidad de carga 800 Kg"
+        ]
+    },
+    {
+        "brand": "JMC",
+        "vehicleModel": "Touring",
+        "year": 2025,
+        "mileage": 0,
+        "price": 0,
+        "transmission": "Manual",
+        "sold": false,
+        "used": false,
+        "horsePower": 141,
+        "type": "Van",
+        "motor": "2.0 GTDI Turbo Diesel",
+        "typeOfOil": "Diesel",
+        "colors": [
+            {
+                "name": "Blanco",
+                "code": "rgba(255, 255, 255, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JMCTOURING+1",
+                        "alt": "Vista frontal Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JMCTOURING+2",
+                        "alt": "Vista derecha Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JMCTOURING+3",
+                        "alt": "Vista izquierda Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JMCTOURING+4",
+                        "alt": "Vista trasera Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JMCTOURING+5",
+                        "alt": "Vista interio Blanca"
+                    }
+                ]
+            }
+        ],
+        "features": [
+            "Incluye placa"
+        ]
+    },
+    {
+        "brand": "Forthing",
+        "vehicleModel": "S60 Joyear",
+        "year": 2025,
+        "mileage": 0,
+        "price": 0,
+        "transmission": "Manual",
+        "sold": false,
+        "used": false,
+        "horsePower": 122,
+        "type": "Sedan",
+        "motor": "Mitsubishi Mivec 1.6L",
+        "typeOfOil": "Gasolina",
+        "colors": [
+            {
+                "name": "Blanco",
+                "code": "rgba(255, 255, 255, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingS60+1",
+                        "alt": "Vista frontal Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingS60+2",
+                        "alt": "Vista derecha Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingS60+3",
+                        "alt": "Vista izquierda Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingS60+4",
+                        "alt": "Vista trasera Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingS60+5",
+                        "alt": "Vista interio Blanca"
+                    }
+                ]
+            },
+            {
+                "name": "Negro",
+                "code": "rgba(0, 0, 0, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingS60+1",
+                        "alt": "Vista frontal   Negro"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingS60+2",
+                        "alt": "Vista derecha   Negro"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingS60+3",
+                        "alt": "Vista izquierda Negro"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingS60+4",
+                        "alt": "Vista trasera   Negro"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingS60+5",
+                        "alt": "Vista interio   Negro"
+                    }
+                ]
+            },
+            {
+                "name": "Gris Oscuro",
+                "code": "rgba(78, 76, 76, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+ForthingS60+1",
+                        "alt": "Vista frontal   Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+ForthingS60+2",
+                        "alt": "Vista derecha   Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+ForthingS60+3",
+                        "alt": "Vista izquierda Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+ForthingS60+4",
+                        "alt": "Vista trasera   Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+ForthingS60+5",
+                        "alt": "Vista interio   Gris"
+                    }
+                ]
+            }
+        ],
+        "features": [
+            "Incluye placa"
+        ]
+    },
+    {
+        "brand": "Forthing",
+        "vehicleModel": "T5 EVO",
+        "year": 2025,
+        "mileage": 0,
+        "price": 0,
+        "transmission": "Automatica",
+        "sold": false,
+        "used": false,
+        "horsePower": 195,
+        "type": "SUV",
+        "motor": "Mitsubishi Mivec Turbo 1.5L",
+        "typeOfOil": "Gasolina",
+        "colors": [
+            {
+                "name": "Blanco",
+                "code": "rgba(255, 255, 255, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingT5Evo+1",
+                        "alt": "Vista frontal Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingT5Evo+2",
+                        "alt": "Vista derecha Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingT5Evo+3",
+                        "alt": "Vista izquierda Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingT5Evo+4",
+                        "alt": "Vista trasera Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingT5Evo+5",
+                        "alt": "Vista interio Blanca"
+                    }
+                ]
+            },
+            {
+                "name": "Negro",
+                "code": "rgba(0, 0, 0, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingT5Evo+1",
+                        "alt": "Vista frontal   Negro"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingT5Evo+2",
+                        "alt": "Vista derecha   Negro"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingT5Evo+3",
+                        "alt": "Vista izquierda Negro"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingT5Evo+4",
+                        "alt": "Vista trasera   Negro"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingT5Evo+5",
+                        "alt": "Vista interio   Negro"
+                    }
+                ]
+            },
+            {
+                "name": "Gris Claro",
+                "code": "rgba(136, 133, 133, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+ForthingT5Evo+1",
+                        "alt": "Vista frontal   Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+ForthingT5Evo+2",
+                        "alt": "Vista derecha   Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+ForthingT5Evo+3",
+                        "alt": "Vista izquierda Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+ForthingT5Evo+4",
+                        "alt": "Vista trasera   Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+ForthingT5Evo+5",
+                        "alt": "Vista interio   Gris"
+                    }
+                ]
+            },
+            {
+                "name": "Rojo",
+                "code": "rgba(255, 0, 0, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Rojo+ForthingT5Evo+1",
+                        "alt": "Vista frontal   Rojo"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Rojo+ForthingT5Evo+2",
+                        "alt": "Vista derecha   Rojo"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Rojo+ForthingT5Evo+3",
+                        "alt": "Vista izquierda Rojo"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Rojo+ForthingT5Evo+4",
+                        "alt": "Vista trasera   Rojo"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Rojo+ForthingT5Evo+5",
+                        "alt": "Vista interio   Rojo"
+                    }
+                ]
+            },
+            {
+                "name": "Cian",
+                "code": "rgba(34, 150, 179, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Cian+ForthingT5Evo+1",
+                        "alt": "Vista frontal   Cian"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Cian+ForthingT5Evo+2",
+                        "alt": "Vista derecha   Cian"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Cian+ForthingT5Evo+3",
+                        "alt": "Vista izquierda Cian"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Cian+ForthingT5Evo+4",
+                        "alt": "Vista trasera   Cian"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Cian+ForthingT5Evo+5",
+                        "alt": "Vista interio   Cian"
+                    }
+                ]
+            }
+        ],
+        "features": [
+            "Incluye placa"
+        ]
+    },
+    {
+        "brand": "Forthing",
+        "vehicleModel": "M4 Yacht",
+        "year": 2025,
+        "mileage": 0,
+        "price": 0,
+        "transmission": "Automatica",
+        "sold": false,
+        "used": false,
+        "horsePower": 195,
+        "type": "SUV",
+        "motor": "Mitsubishi Mivec 1.5L",
+        "typeOfOil": "Gasolina",
+        "colors": [
+            {
+                "name": "Blanco",
+                "code": "rgba(255, 255, 255, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingSuvM4+1",
+                        "alt": "Vista frontal Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingSuvM4+2",
+                        "alt": "Vista derecha Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingSuvM4+3",
+                        "alt": "Vista izquierda Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingSuvM4+4",
+                        "alt": "Vista trasera Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingSuvM4+5",
+                        "alt": "Vista interio Blanca"
+                    }
+                ]
+            },
+            {
+                "name": "Negro",
+                "code": "rgba(0, 0, 0, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingSuvM4+1",
+                        "alt": "Vista frontal   Negro"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingSuvM4+2",
+                        "alt": "Vista derecha   Negro"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingSuvM4+3",
+                        "alt": "Vista izquierda Negro"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingSuvM4+4",
+                        "alt": "Vista trasera   Negro"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingSuvM4+5",
+                        "alt": "Vista interio   Negro"
+                    }
+                ]
+            }
+        ],
+        "features": [
+            "Incluye placa"
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "vehicleModel": "S-presso",
+        "year": 2025,
+        "mileage": 0,
+        "price": 0,
+        "transmission": "Automatica",
+        "sold": false,
+        "used": false,
+        "horsePower": 65.7,
+        "type": "Hatchback",
+        "motor": "3 Cilindros 1.0L",
+        "typeOfOil": "Gasolina",
+        "colors": [
+            {
+                "name": "Blanco",
+                "code": "rgba(255, 255, 255, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiSpresso+1",
+                        "alt": "Vista frontal Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiSpresso+2",
+                        "alt": "Vista derecha Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiSpresso+3",
+                        "alt": "Vista izquierda Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiSpresso+4",
+                        "alt": "Vista trasera Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiSpresso+5",
+                        "alt": "Vista interio Blanca"
+                    }
+                ]
+            },
+            {
+                "name": "Gris Claro",
+                "code": "rgba(128, 132, 136, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_claro+SuzukiSpresso+1",
+                        "alt": "Vista frontal   Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_claro+SuzukiSpresso+2",
+                        "alt": "Vista derecha   Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_claro+SuzukiSpresso+3",
+                        "alt": "Vista izquierda Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_claro+SuzukiSpresso+4",
+                        "alt": "Vista trasera   Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_claro+SuzukiSpresso+5",
+                        "alt": "Vista interio   Gris"
+                    }
+                ]
+            },
+            {
+                "name": "Gris Oscuro",
+                "code": "rgba(86, 87, 87, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_oscuro+SuzukiSpresso+1",
+                        "alt": "Vista frontal   Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_oscuro+SuzukiSpresso+2",
+                        "alt": "Vista derecha   Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_oscuro+SuzukiSpresso+3",
+                        "alt": "Vista izquierda Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_oscuro+SuzukiSpresso+4",
+                        "alt": "Vista trasera   Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_oscuro+SuzukiSpresso+5",
+                        "alt": "Vista interio   Gris"
+                    }
+                ]
+            }
+        ],
+        "features": [
+            "Incluye placa"
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "vehicleModel": "Swift",
+        "year": 2025,
+        "mileage": 0,
+        "price": 0,
+        "transmission": "Automatica",
+        "sold": false,
+        "used": false,
+        "horsePower": 82,
+        "type": "Hatchback",
+        "motor": "3 Cilindros 1.2L",
+        "typeOfOil": "Gasolina",
+        "colors": [
+            {
+                "name": "Azul",
+                "code": "rgba(30, 81, 192, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Axul+SuzukiSwift+1",
+                        "alt": "Vista frontal   Azul"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Axul+SuzukiSwift+2",
+                        "alt": "Vista derecha   Azul"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Axul+SuzukiSwift+3",
+                        "alt": "Vista izquierda Azul"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Axul+SuzukiSwift+4",
+                        "alt": "Vista trasera   Azul"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Axul+SuzukiSwift+5",
+                        "alt": "Vista interio   Azul"
+                    }
+                ]
+            },
+            {
+                "name": "Rojo",
+                "code": "rgba(255, 0, 0, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Rojo+SuzukiSwift+1",
+                        "alt": "Vista frontal   Rojo"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Rojo+SuzukiSwift+2",
+                        "alt": "Vista derecha   Rojo"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Rojo+SuzukiSwift+3",
+                        "alt": "Vista izquierda Rojo"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Rojo+SuzukiSwift+4",
+                        "alt": "Vista trasera   Rojo"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Rojo+SuzukiSwift+5",
+                        "alt": "Vista interio   Rojo"
+                    }
+                ]
+            },
+            {
+                "name": "Gris",
+                "code": "rgba(125, 129, 129, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+SuzukiSwift+1",
+                        "alt": "Vista frontal   Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+SuzukiSwift+2",
+                        "alt": "Vista derecha   Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+SuzukiSwift+3",
+                        "alt": "Vista izquierda Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+SuzukiSwift+4",
+                        "alt": "Vista trasera   Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+SuzukiSwift+5",
+                        "alt": "Vista interio   Gris"
+                    }
+                ]
+            }
+        ],
+        "features": [
+            "Incluye placa"
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "vehicleModel": "Fronx",
+        "year": 2025,
+        "mileage": 0,
+        "price": 0,
+        "transmission": "Automatica",
+        "sold": false,
+        "used": false,
+        "horsePower": 103,
+        "type": "Crossover",
+        "motor": "4 Cilindros 1.5L",
+        "typeOfOil": "Gasolina",
+        "colors": [
+            {
+                "name": "Blanco",
+                "code": "rgba(255, 255, 255, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiFronx+1",
+                        "alt": "Vista frontal   Blanco"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiFronx+2",
+                        "alt": "Vista derecha   Blanco"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiFronx+3",
+                        "alt": "Vista izquierda Blanco"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiFronx+4",
+                        "alt": "Vista trasera   Blanco"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiFronx+5",
+                        "alt": "Vista interio   Blanco"
+                    }
+                ]
+            },
+            {
+                "name": "Plateado",
+                "code": "rgba(192, 192, 192, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Plateado+SuzukiFronx+2",
+                        "alt": "Vista derecha   Plateado"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Plateado+SuzukiFronx+1",
+                        "alt": "Vista frontal   Plateado"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Plateado+SuzukiFronx+3",
+                        "alt": "Vista izquierda Plateado"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Plateado+SuzukiFronx+4",
+                        "alt": "Vista trasera   Plateado"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Plateado+SuzukiFronx+5",
+                        "alt": "Vista interio   Plateado"
+                    }
+                ]
+            },
+            {
+                "name": "Gris",
+                "code": "rgba(71, 68, 68, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+SuzukiFronx+1",
+                        "alt": "Vista frontal   Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+SuzukiFronx+2",
+                        "alt": "Vista derecha   Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+SuzukiFronx+3",
+                        "alt": "Vista izquierda Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+SuzukiFronx+4",
+                        "alt": "Vista trasera   Gris"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+SuzukiFronx+5",
+                        "alt": "Vista interio   Gris"
+                    }
+                ]
+            }
+        ],
+        "features": [
+            "Incluye placa"
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "vehicleModel": "Jimny",
+        "year": 2025,
+        "mileage": 0,
+        "price": 0,
+        "transmission": "Manual",
+        "sold": false,
+        "used": false,
+        "horsePower": 103,
+        "type": "Todoterreno",
+        "motor": "4 Cilindros 1.5L",
+        "typeOfOil": "Gasolina",
+        "colors": [
+            {
+                "name": "Blanco",
+                "code": "rgba(255, 255, 255, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiJimny+1",
+                        "alt": "Vista frontal   Blanco"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiJimny+2",
+                        "alt": "Vista derecha   Blanco"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiJimny+3",
+                        "alt": "Vista izquierda Blanco"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiJimny+4",
+                        "alt": "Vista trasera   Blanco"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiJimny+5",
+                        "alt": "Vista interio   Blanco"
+                    }
+                ]
+            },
+            {
+                "name": "Mostaza",
+                "code": "rgba(161, 182, 43, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Mostaza+SuzukiJimny+2",
+                        "alt": "Vista derecha   Mostaza"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Mostaza+SuzukiJimny+1",
+                        "alt": "Vista frontal   Mostaza"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Mostaza+SuzukiJimny+3",
+                        "alt": "Vista izquierda Mostaza"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Mostaza+SuzukiJimny+4",
+                        "alt": "Vista trasera   Mostaza"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Mostaza+SuzukiJimny+5",
+                        "alt": "Vista interio   Mostaza"
+                    }
+                ]
+            }
+        ],
+        "features": [
+            "Incluye placa",
+            "Disponible version de 3 y 5 puertas",
+            "Tracción 4x4"
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "vehicleModel": "Carry",
+        "year": 2025,
+        "mileage": 0,
+        "price": 0,
+        "transmission": "Manual",
+        "sold": false,
+        "used": false,
+        "horsePower": 95,
+        "type": "Panel de carga",
+        "motor": "4 Cilindros 1.5L",
+        "typeOfOil": "Gasolina",
+        "colors": [
+            {
+                "name": "Blanco",
+                "code": "rgba(255, 255, 255, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiCarry+1",
+                        "alt": "Vista frontal   Blanco"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiCarry+2",
+                        "alt": "Vista derecha   Blanco"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiCarry+3",
+                        "alt": "Vista izquierda Blanco"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiCarry+4",
+                        "alt": "Vista trasera   Blanco"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiCarry+5",
+                        "alt": "Vista interio   Blanco"
+                    }
+                ]
+            }
+        ],
+        "features": [
+            "Incluye placa",
+            "Capacidad de carga 920 Kg"
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "vehicleModel": "Eeco Van",
+        "year": 2025,
+        "mileage": 0,
+        "price": 0,
+        "transmission": "Manual",
+        "sold": false,
+        "used": false,
+        "horsePower": 79,
+        "type": "Van",
+        "motor": "4 Cilindros 1.5L",
+        "typeOfOil": "Gasolina",
+        "colors": [
+            {
+                "name": "Blanco",
+                "code": "rgba(255, 255, 255, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiEeco+1",
+                        "alt": "Vista frontal   Blanco"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiEeco+2",
+                        "alt": "Vista derecha   Blanco"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiEeco+3",
+                        "alt": "Vista izquierda Blanco"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiEeco+4",
+                        "alt": "Vista trasera   Blanco"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiEeco+5",
+                        "alt": "Vista interio   Blanco"
+                    }
+                ]
+            }
+        ],
+        "features": [
+            "Incluye placa"
+        ]
+    },
+    {
+        "brand": "JMC",
+        "vehicleModel": "Carrying N697",
+        "year": 2025,
+        "mileage": 0,
+        "price": 0,
+        "transmission": "Manual",
+        "sold": false,
+        "used": false,
+        "horsePower": 85,
+        "type": "Camion",
+        "motor": "2.8 Isuzu Turbo Diesel 4 Cilindros",
+        "typeOfOil": "Diesel",
+        "colors": [
+            {
+                "name": "Blanco",
+                "code": "rgba(255, 255, 255, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingN697+1",
+                        "alt": "Vista frontal Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingN697+2",
+                        "alt": "Vista derecha Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingN697+3",
+                        "alt": "Vista izquierda Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingN697+4",
+                        "alt": "Vista trasera Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingN697+5",
+                        "alt": "Vista interio Blanca"
+                    }
+                ]
+            }
+        ],
+        "features": [
+            "Incluye placa",
+            "Capacidad de carga 2800 Kg",
+            "Tanque de combustible 60 L"
+        ]
+    },
+    {
+        "brand": "JMC",
+        "vehicleModel": "New Carrying Plus N822 3,5T",
+        "year": 2025,
+        "mileage": 0,
+        "price": 0,
+        "transmission": "Manual",
+        "sold": false,
+        "used": false,
+        "horsePower": 95,
+        "type": "Camion",
+        "motor": "2.8 Isuzu Turbo Diesel 4 Cilindros",
+        "typeOfOil": "Diesel",
+        "colors": [
+            {
+                "name": "Blanco",
+                "code": "rgba(255, 255, 255, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingPlusN822+1",
+                        "alt": "Vista frontal Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingPlusN822+2",
+                        "alt": "Vista derecha Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingPlusN822+3",
+                        "alt": "Vista izquierda Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingPlusN822+4",
+                        "alt": "Vista trasera Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingPlusN822+5",
+                        "alt": "Vista interio Blanca"
+                    }
+                ]
+            }
+        ],
+        "features": [
+            "Incluye placa",
+            "Capacidad de carga 3500 Kg",
+            "Tanque de combustible 120 L"
+        ]
+    },
+    {
+        "brand": "JMC",
+        "vehicleModel": "New Carrying Plus N822 4T",
+        "year": 2025,
+        "mileage": 0,
+        "price": 0,
+        "transmission": "Manual",
+        "sold": false,
+        "used": false,
+        "horsePower": 95,
+        "type": "Camion",
+        "motor": "2.8 Isuzu Turbo Diesel 4 Cilindros",
+        "typeOfOil": "Diesel",
+        "colors": [
+            {
+                "name": "Blanco",
+                "code": "rgba(255, 255, 255, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingPlusN8224T+2",
+                        "alt": "Vista derecha Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingPlusN8224T+3",
+                        "alt": "Vista izquierda Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingPlusN8224T+4",
+                        "alt": "Vista trasera Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingPlusN8224T+5",
+                        "alt": "Vista interio Blanca"
+                    }
+                ]
+            }
+        ],
+        "features": [
+            "Incluye placa",
+            "Capacidad de carga 4000 Kg",
+            "Tanque de combustible 120 L"
+        ]
+    },
+    {
+        "brand": "JMC",
+        "vehicleModel": "New Conquer Plus N822 5T",
+        "year": 2025,
+        "mileage": 0,
+        "price": 0,
+        "transmission": "Manual",
+        "sold": false,
+        "used": false,
+        "horsePower": 261,
+        "type": "Camion",
+        "motor": "3.0 Isuzu LWB Turbo Diesel",
+        "typeOfOil": "Diesel",
+        "colors": [
+            {
+                "name": "Blanco",
+                "code": "rgba(255, 255, 255, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcConquerPlusN8225T+2",
+                        "alt": "Vista derecha Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcConquerPlusN8225T+3",
+                        "alt": "Vista izquierda Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcConquerPlusN8225T+4",
+                        "alt": "Vista trasera Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcConquerPlusN8225T+5",
+                        "alt": "Vista interio Blanca"
+                    }
+                ]
+            }
+        ],
+        "features": [
+            "Incluye placa",
+            "Capacidad de carga 5000 Kg",
+            "Tanque de combustible 125 L",
+            "Sistema de frenos de Aire de Doble Circuito con ABS"
+        ]
+    },
+    {
+        "brand": "JMC",
+        "vehicleModel": "New Conquer Plus N822 6.1T",
+        "year": 2025,
+        "mileage": 0,
+        "price": 0,
+        "transmission": "Manual",
+        "sold": false,
+        "used": false,
+        "horsePower": 261,
+        "type": "Camion",
+        "motor": "3.0 Isuzu LWB Turbo Diesel",
+        "typeOfOil": "Diesel",
+        "colors": [
+            {
+                "name": "Blanco",
+                "code": "rgba(255, 255, 255, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcConquerPlusN8226T+2",
+                        "alt": "Vista derecha Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcConquerPlusN8226T+3",
+                        "alt": "Vista izquierda Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcConquerPlusN8226T+4",
+                        "alt": "Vista trasera Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcConquerPlusN8226T+5",
+                        "alt": "Vista interio Blanca"
+                    }
+                ]
+            }
+        ],
+        "features": [
+            "Incluye placa",
+            "Capacidad de carga 6100 Kg",
+            "Tanque de combustible 125 L",
+            "Sistema de frenos de Aire de Doble Circuito con ABS"
+        ]
+    },
+    {
+        "brand": "Isuzu",
+        "vehicleModel": "700P",
+        "year": 2025,
+        "mileage": 0,
+        "price": 0,
+        "transmission": "Manual",
+        "sold": false,
+        "used": false,
+        "horsePower": 190,
+        "type": "Camion",
+        "motor": "Isuzu 4HK1-TC51",
+        "typeOfOil": "Diesel",
+        "colors": [
+            {
+                "name": "Blanco",
+                "code": "rgba(255, 255, 255, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+Isuzu700p+2",
+                        "alt": "Vista derecha Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+Isuzu700p+3",
+                        "alt": "Vista izquierda Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+Isuzu700p+4",
+                        "alt": "Vista trasera Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+Isuzu700p+5",
+                        "alt": "Vista interio Blanca"
+                    }
+                ]
+            }
+        ],
+        "features": [
+            "Incluye placa",
+            "Capacidad de carga 8000 Kg",
+            "Tanque de combustible 180 L"
+        ]
+    },
+    {
+        "brand": "Isuzu",
+        "vehicleModel": "FVR",
+        "year": 2025,
+        "mileage": 0,
+        "price": 0,
+        "transmission": "Manual",
+        "sold": false,
+        "used": false,
+        "horsePower": 241,
+        "type": "Camion",
+        "motor": "Isuzu 6HK1-TCL LWB Turbo Diesel",
+        "typeOfOil": "Diesel",
+        "colors": [
+            {
+                "name": "Blanco",
+                "code": "rgba(255, 255, 255, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+IsuzuFVR+2",
+                        "alt": "Vista derecha Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+IsuzuFVR+3",
+                        "alt": "Vista izquierda Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+IsuzuFVR+4",
+                        "alt": "Vista trasera Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+IsuzuFVR+5",
+                        "alt": "Vista interio Blanca"
+                    }
+                ]
+            }
+        ],
+        "features": [
+            "Incluye placa",
+            "Capacidad de carga 12200 Kg",
+            "Tanque de combustible 400 L"
+        ]
+    },
+    {
+        "brand": "Isuzu",
+        "vehicleModel": "GIGA 4x2",
+        "year": 2025,
+        "mileage": 0,
+        "price": 0,
+        "transmission": "Manual",
+        "sold": false,
+        "used": false,
+        "horsePower": 460,
+        "type": "Gandola",
+        "motor": "Isuzu 6WG1-TCG52",
+        "typeOfOil": "Diesel",
+        "colors": [
+            {
+                "name": "Blanco",
+                "code": "rgba(255, 255, 255, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+IsuzuGiga4x2+2",
+                        "alt": "Vista derecha Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+IsuzuGiga4x2+3",
+                        "alt": "Vista izquierda Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+IsuzuGiga4x2+4",
+                        "alt": "Vista trasera Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+IsuzuGiga4x2+5",
+                        "alt": "Vista interio Blanca"
+                    }
+                ]
+            }
+        ],
+        "features": [
+            "Incluye placa",
+            "Capacidad de carga 30000 Kg",
+            "Tanque de combustible 400 L"
+        ]
+    },
+    {
+        "brand": "Isuzu",
+        "vehicleModel": "GIGA 6x4 VC61",
+        "year": 2025,
+        "mileage": 0,
+        "price": 0,
+        "transmission": "Manual",
+        "sold": false,
+        "used": false,
+        "horsePower": 460,
+        "type": "Gandola",
+        "motor": "Isuzu 6WG1-TCG52",
+        "typeOfOil": "Diesel",
+        "colors": [
+            {
+                "name": "Blanco",
+                "code": "rgba(255, 255, 255, 1)",
+                "images": [
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+IsuzuGiga6x2Vc61+2",
+                        "alt": "Vista derecha Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+IsuzuGiga6x2Vc61+3",
+                        "alt": "Vista izquierda Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+IsuzuGiga6x2Vc61+4",
+                        "alt": "Vista trasera Blanca"
+                    },
+                    {
+                        "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+IsuzuGiga6x2Vc61+5",
+                        "alt": "Vista interio Blanca"
+                    }
+                ]
+            }
+        ],
+        "features": [
+            "Incluye placa",
+            "Capacidad de carga 40000 Kg",
+            "Tanque de combustible 400 L"
+        ]
+    }
+]
