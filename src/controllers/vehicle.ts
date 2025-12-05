@@ -1,6 +1,7 @@
 import { Request, Response } from "express";
 import { Vehicle } from "../models/Vehicle";
-import vehicleSeedData from "../data/data.json";
+// import vehicleSeedData from "../data/data.json";
+import vehicleSeedData from "../data/data-copy.json"; //TODO: probando la descripcion, cambiar.
 import mongoose from "mongoose";
 
 function escapeRegex(input: string) {
@@ -66,17 +67,6 @@ export const getVehicles = async( req: Request, res: Response ) => {
       query.$or = orClauses;
     }
   }
-
-//  if (search) {
-//     const regex = new RegExp(search, "i"); // insensible a mayúsculas/minúsculas
-
-//     query.$or = [
-//       { brand: regex },
-//       { vehicleModel: regex },
-//       { type: regex },
-//       { year: !isNaN(Number(search)) ? Number(search) : undefined }
-//     ].filter(Boolean);
-//   }
 
   // const sort = { createdAt: -1 }; //TODO: implementar si necesario recientes primero
 

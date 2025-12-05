@@ -6,3 +6,6 @@ dist
 data/vehicles.json
 data/data copy.json
 querys/
+
+get-auth-url.js
+exchange-tokens.js

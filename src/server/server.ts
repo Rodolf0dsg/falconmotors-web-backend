@@ -4,6 +4,7 @@ import { dbConnection } from '../database/config';
 
 import commentsRouter from '../routes/comments';
 import vehiclesRouter from '../routes/vehicles';
+import emailRouter from    '../routes/email';
 
 export class Server {
 
@@ -11,7 +12,8 @@ export class Server {
     private port: string | number | undefined;
     private paths: {
       comments: string;
-      vehicles: string;                        
+      vehicles: string; 
+      email:    string;                      
     };
 
     constructor(){
@@ -20,7 +22,8 @@ export class Server {
 
         this.paths = {
             comments: '/api/comments',
-            vehicles: '/api/vehicles',        
+            vehicles: '/api/vehicles',
+            email: '/api/email',
         };
 
         //conectar a la base de datos
@@ -55,6 +58,7 @@ export class Server {
     routes(){
       this.app.use( this.paths.comments , commentsRouter);
       this.app.use( this.paths.vehicles , vehiclesRouter);
+      this.app.use( this.paths.email ,    emailRouter);
     };
 
     listen() {
