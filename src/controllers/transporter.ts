@@ -8,9 +8,6 @@ const oAuth2Client = new google.auth.OAuth2(
   process.env.GOOGLE_REDIRECT_URI
 );
 
-
-console.log(process.env.GOOGLE_REFRESH_TOKEN);
-
 oAuth2Client.setCredentials({ refresh_token: process.env.GOOGLE_REFRESH_TOKEN! });
 
 export async function getTransporter() {
