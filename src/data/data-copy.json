@@ -14,54 +14,38 @@
     "typeOfOil": "Gasolina",
     "colors": [
       {
-        "name": "Gris",
-        "code": "rgb(205, 205, 205)",
-        "images": [
-          {
-            "url": "https://res.cloudinary.com/dtopqtz8a/image/upload/w_700,q_auto,f_auto/v1764793155/grand-avenue-frontal_k2ustf.jpg",
-            "alt": "Vista frontal grand avenue blanca"
-          },
-          {
-            "url": "https://res.cloudinary.com/dtopqtz8a/image/upload/w_700,q_auto,f_auto/v1764793161/grand-avenue-trasera_lxx52h.jpg",
-            "alt": "Vista trasera grand avenue gris"
-          },
-          {
-            "url": "https://res.cloudinary.com/dtopqtz8a/image/upload/w_700,q_auto,f_auto/v1764793156/grand-avenue-interior-puerta-frontal_kh4z1y.jpg",
-            "alt": "Vista interior frontal Grand Avenue Gris"
-          },
-          {
-            "url": "https://res.cloudinary.com/dtopqtz8a/image/upload/w_700,q_auto,f_auto/v1764793158/grand-avenue-interior-puerta-trasera_j264g3.jpg",
-            "alt": "Vista interior trasera Grand Avenue Gris"
-          },
-          {
-            "url": "https://res.cloudinary.com/dtopqtz8a/image/upload/w_700,q_auto,f_auto/v1764793159/grand-avenue-motor_ebhtfk.jpg",
-            "alt": "Vista motor Grand Avenue Gris"
-          }
-        ]
-      },
-      {
         "name": "Blanco",
         "code": "rgb(255, 255, 255)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+GrandAvenue+1",
-            "alt": "Vista frontal Gris"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764942868/grand-avenue-frontal_ui9eba.jpg",
+            "alt": "Vista frontal Grand Avenue Blanca"
           },
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+GrandAvenue+2",
-            "alt": "Vista derecha Gris"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764936833/WhatsApp_Image_2025-12-04_at_9.36.47_AM_u6zzy1.jpg",
+            "alt": "Vista frontal Grand Avenue Blanca"
           },
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+GrandAvenue+3",
-            "alt": "Vista izquierda Gris"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764936833/Grand-avenue-trasera_dfvgoh.jpg",
+            "alt": "Vista trasera Grand Avenue Blanca"
           },
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+GrandAvenue+4",
-            "alt": "Vista trasera Gris"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764936833/grand-avenue-caja_tben9x.jpg",
+            "alt": "Vista caja abierta Grand Avenue Blanca"
           },
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+GrandAvenue+5",
-            "alt": "Vista interior Gris"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764936833/grand-avenue-motor_xuztpf.jpg",
+            "alt": "Vista motor grand avenue Blanca"
+          }
+        ]
+      },
+      {
+        "name": "Gris",
+        "code": "rgb(205, 205, 205)",
+        "images": [
+          {
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_700,q_auto,f_auto/v1764948165/grand-avenue-gris_enkf5p.png",
+            "alt": "Vista frontal grand avenue Gris"
           }
         ]
       },
@@ -70,24 +54,8 @@
         "code": "rgba(0, 0, 0, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+GrandAvenue+1",
-            "alt": "Vista frontal Negra"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+GrandAvenue+2",
-            "alt": "Vista derecha Negra"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+GrandAvenue+3",
-            "alt": "Vista izquierda Negra"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+GrandAvenue+4",
-            "alt": "Vista trasera Negra"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+GrandAvenue+5",
-            "alt": "Vista interior Negra"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764948397/GrandAvenue-color-negro-1_zuikzu.png",
+            "alt": "Vista frontal Grand Avenue Negra"
           }
         ]
       }
@@ -113,54 +81,50 @@
     "typeOfOil": "Gasolina",
     "colors": [
       {
+        "name": "Gris",
+        "code": "rgb(205, 205, 205)",
+        "images": [
+          {
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764948623/Vigus-frontal_mmswl9.jpg",
+            "alt": "Vista frontal All New Vigus Gris"
+          },
+          {
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764948665/Vigus-trasera-2_c6yrai.jpg",
+            "alt": "Vista trasera All New Vigus Gris"
+          },
+          {
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764948624/Vigus-interior-frontal_ocxnoj.jpg",
+            "alt": "Vista interior frontal All New Vigus Gris"
+          },
+          {
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764948624/Vigus-interior-trasera_fovjgp.jpg",
+            "alt": "Vista interior trasera All New Vigus Gris"
+          },
+          {
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764948624/Vigus-interior_vstd2s.jpg",
+            "alt": "Vista Interior All New Vigus Gris"
+          },
+          {
+            "url": "https://res.cloudinary.com/dtopqtz8a/image/upload/w_700,q_auto,f_auto/v1764793159/grand-avenue-motor_ebhtfk.jpg",
+            "alt": "Vista motor All New Vigus Gris"
+          },
+          {
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764948624/vigus-trasera_pjxkk9.jpg",
+            "alt": "Vista trasera All New Vigus Gris"
+          },
+          {
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764948730/Vigus-trasera-caja_xc2kmk.jpg",
+            "alt": "Vista caja abierta All New Vigus Gris"
+          }   
+        ]
+      },
+      {
         "name": "Blanco",
         "code": "rgba(255, 255, 255, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+AllNewVigusPro+1",
-            "alt": "Vista frontal Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+AllNewVigusPro+2",
-            "alt": "Vista derecha Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+AllNewVigusPro+3",
-            "alt": "Vista izquierda Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+AllNewVigusPro+4",
-            "alt": "Vista trasera Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+AllNewVigusPro+5",
-            "alt": "Vista interior Blanca"
-          }
-        ]
-      },
-      {
-        "name": "Gris Claro",
-        "code": "rgba(128, 132, 136, 1)",
-        "images": [
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_claro+GrandAvenue+1",
-            "alt": "Vista frontal Gris"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_claro+GrandAvenue+2",
-            "alt": "Vista derecha Gris"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_claro+GrandAvenue+3",
-            "alt": "Vista izquierda Gris"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_claro+GrandAvenue+4",
-            "alt": "Vista trasera Gris"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_claro+GrandAvenue+5",
-            "alt": "Vista interior Gris"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_800,q_auto,f_auto/v1764969607/all-new-vigus-blanca_ulkqgz.png",
+            "alt": "Vista frontal All New Vigus Blanca"
           }
         ]
       }
@@ -189,24 +153,8 @@
         "code": "rgba(255, 255, 255, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JimReMax+1",
-            "alt": "Vista frontal Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JimReMax+2",
-            "alt": "Vista derecha Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JimReMax+3",
-            "alt": "Vista izquierda Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JimReMax+4",
-            "alt": "Vista trasera Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JimReMax+5",
-            "alt": "Vista interior Blanca"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764941495/JIM_Re-Max_de_frente_clqf9n.png",
+            "alt": "Vista frontal JIM Re-MAX Blanca"
           }
         ]
       },
@@ -215,24 +163,8 @@
         "code": "rgba(1, 26, 165, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=azul_ocuro+JimReMax+1",
-            "alt": "Vista frontal Azul oscuro"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=azul_ocuro+JimReMax+2",
-            "alt": "Vista derecha Azul oscuro"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=azul_ocuro+JimReMax+3",
-            "alt": "Vista izquierda Azul oscuro"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=azul_ocuro+JimReMax+4",
-            "alt": "Vista trasera Azul oscuro"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=azul_ocuro+JimReMax+5",
-            "alt": "Vista interior Azul oscuro"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764941628/JIM_Re-Max_de_frente_azul_je345t.png",
+            "alt": "Vista frontal JIM Re-Max Azul oscuro"
           }
         ]
       }
@@ -262,24 +194,12 @@
         "code": "rgba(255, 255, 255, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JMCTOURING+1",
-            "alt": "Vista frontal Blanca"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/a_hflip/v1764950723/Touring_dfbiyu.png",
+            "alt": "Vista frontal JMC Touring Blanca"
           },
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JMCTOURING+2",
-            "alt": "Vista derecha Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JMCTOURING+3",
-            "alt": "Vista izquierda Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JMCTOURING+4",
-            "alt": "Vista trasera Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JMCTOURING+5",
-            "alt": "Vista interior Blanca"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764950690/picture39_0_wwg4fx.jpg",
+            "alt": "Vista derecha JMC Touring Blanca"
           }
         ]
       }
@@ -308,23 +228,23 @@
         "code": "rgb(189, 183, 107)",
         "images": [
           {
-            "url": "https://res.cloudinary.com/dtopqtz8a/image/upload/w_700,q_auto,f_auto/v1764794576/forthing-s60-frontal_qk8nft.jpg",
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764947515/forthing-s60-frente_dog7rk.jpg",
             "alt": "Vista frontal Forthing s60 Gris Oscuro"
           },
           {
-            "url": "https://res.cloudinary.com/dtopqtz8a/image/upload/w_700,q_auto,f_auto/v1764794580/forthing-s60-interior-delantera_iogp0l.jpg",
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764947515/s-60-interior-delantera_srgcm9.jpg",
             "alt": "Vista interior delantera Forthing s60 Gris Oscuro"
           },
           {
-            "url": "https://res.cloudinary.com/dtopqtz8a/image/upload/w_700,q_auto,f_auto/v1764794582/forthing-s60-interior-trasera_qmeffi.jpg",
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764947516/s-60-interior-trsera_pyuw4s.jpg",
             "alt": "Vista interior trasera Forthing s60 Gris Oscuro"
           },
           {
-            "url": "https://res.cloudinary.com/dtopqtz8a/image/upload/w_700,q_auto,f_auto/v1764794584/forthing-s60-motor_wlnzeb.jpg",
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764947515/forthing-s60-motor_sow1b8.jpg",
             "alt": "Vista motor Forthing s60 Gris Oscuro"
           },
           {
-            "url": "https://res.cloudinary.com/dtopqtz8a/image/upload/w_700,q_auto,f_auto/v1764794581/forthing-s60-trasera_r62pto.jpg",
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764947515/forthing-s60-trasera_xwpock.jpg",
             "alt": "Vista trasera Forthing s60 Gris Oscuro"
           }
         ]
@@ -334,24 +254,8 @@
         "code": "rgba(255, 255, 255, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingS60+1",
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_800,q_auto,f_auto/v1764950377/s-6--blanco_u1dnnt.png",
             "alt": "Vista frontal Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingS60+2",
-            "alt": "Vista derecha Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingS60+3",
-            "alt": "Vista izquierda Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingS60+4",
-            "alt": "Vista trasera Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingS60+5",
-            "alt": "Vista interior Blanca"
           }
         ]
       },
@@ -360,24 +264,8 @@
         "code": "rgba(0, 0, 0, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingS60+1",
-            "alt": "Vista frontal Negro"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingS60+2",
-            "alt": "Vista derecha Negro"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingS60+3",
-            "alt": "Vista izquierda Negro"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingS60+4",
-            "alt": "Vista trasera Negro"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingS60+5",
-            "alt": "Vista interior Negro"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_800,q_auto,f_auto/v1764950035/s-60-negro_prenyh.png",
+            "alt": "Vista frontal s60 Negro"
           }
         ]
       }
@@ -406,24 +294,32 @@
         "code": "rgba(255, 255, 255, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingT5Evo+1",
-            "alt": "Vista frontal Blanca"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764955649/t5-evo-blanca-frente_o93q4m.jpg",
+            "alt": "Vista frontal T5 Evo Blanca"
           },
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingT5Evo+2",
-            "alt": "Vista derecha Blanca"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764955650/t5-evo-blanca-frente2_gw6rtk.jpg",
+            "alt": "Vista frontal T5 Evo Blanca"
           },
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingT5Evo+3",
-            "alt": "Vista izquierda Blanca"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764955652/t5-evo-blanca-interior-fronta_khify8.jpg",
+            "alt": "Vista interior frontral T5 Evo Blanca"
           },
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingT5Evo+4",
-            "alt": "Vista trasera Blanca"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764955654/t5-evo-blanca-interior-trsero_s4h8t9.jpg",
+            "alt": "Vista interior trasera T5 Evo Blanca"
           },
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingT5Evo+5",
-            "alt": "Vista interior Blanca"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_800,q_auto,f_auto/v1764955654/t5-evo-blanca-interior_riq19f.png",
+            "alt": "Vista interior T5 Evo Blanca"
+          },
+          {
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764955655/t5-evo-blanca-trasera_jgd7zn.jpg",
+            "alt": "Vista trasera T5 Evo Blanca"
+          },
+          {
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764955655/t5-evo-blanca-motor_rfhnwo.jpg",
+            "alt": "Vista motor T5 Evo Blanca"
           }
         ]
       },
@@ -432,24 +328,8 @@
         "code": "rgba(0, 0, 0, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingT5Evo+1",
-            "alt": "Vista frontal Negro"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingT5Evo+2",
-            "alt": "Vista derecha Negro"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingT5Evo+3",
-            "alt": "Vista izquierda Negro"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingT5Evo+4",
-            "alt": "Vista trasera Negro"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingT5Evo+5",
-            "alt": "Vista interior Negro"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_800,q_auto,f_auto/v1764970867/t5_negra_cablp0.png",
+            "alt": "Vista frontal T5 Evo Negro"
           }
         ]
       },
@@ -458,24 +338,8 @@
         "code": "rgba(136, 133, 133, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+ForthingT5Evo+1",
-            "alt": "Vista frontal Gris"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+ForthingT5Evo+2",
-            "alt": "Vista derecha Gris"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+ForthingT5Evo+3",
-            "alt": "Vista izquierda Gris"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+ForthingT5Evo+4",
-            "alt": "Vista trasera Gris"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+ForthingT5Evo+5",
-            "alt": "Vista interior Gris"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_800,q_auto,f_auto/v1764970870/t5-gris_vstc2y.png",
+            "alt": "Vista frontal T5 Evo Gris"
           }
         ]
       },
@@ -484,24 +348,8 @@
         "code": "rgba(255, 0, 0, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Rojo+ForthingT5Evo+1",
-            "alt": "Vista frontal Rojo"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Rojo+ForthingT5Evo+2",
-            "alt": "Vista derecha Rojo"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Rojo+ForthingT5Evo+3",
-            "alt": "Vista izquierda Rojo"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Rojo+ForthingT5Evo+4",
-            "alt": "Vista trasera Rojo"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Rojo+ForthingT5Evo+5",
-            "alt": "Vista interior Rojo"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_800,q_auto,f_auto/v1764970872/t5-roja_iaum4x.png",
+            "alt": "Vista frontal T5 Evo Rojo"
           }
         ]
       },
@@ -510,24 +358,8 @@
         "code": "rgba(34, 150, 179, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Cian+ForthingT5Evo+1",
-            "alt": "Vista frontal Cian"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Cian+ForthingT5Evo+2",
-            "alt": "Vista derecha Cian"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Cian+ForthingT5Evo+3",
-            "alt": "Vista izquierda Cian"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Cian+ForthingT5Evo+4",
-            "alt": "Vista trasera Cian"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Cian+ForthingT5Evo+5",
-            "alt": "Vista interior Cian"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_800,q_auto,f_auto/v1764970869/t5-cian_jgenyq.png",
+            "alt": "Vista frontal T5 Evo Cian"
           }
         ]
       }
@@ -552,54 +384,46 @@
     "typeOfOil": "Gasolina",
     "colors": [
       {
-        "name": "Blanco",
-        "code": "rgba(255, 255, 255, 1)",
-        "images": [
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingSuvM4+1",
-            "alt": "Vista frontal Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingSuvM4+2",
-            "alt": "Vista derecha Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingSuvM4+3",
-            "alt": "Vista izquierda Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingSuvM4+4",
-            "alt": "Vista trasera Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+ForthingSuvM4+5",
-            "alt": "Vista interior Blanca"
-          }
-        ]
-      },
-      {
         "name": "Negro",
         "code": "rgba(0, 0, 0, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingSuvM4+1",
-            "alt": "Vista frontal Negro"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764958045/m4-yatch-negra-frontal_bcyrkz.jpg",
+            "alt": "Vista frontal M4 Yatch Negro"
           },
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingSuvM4+2",
-            "alt": "Vista derecha Negro"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764958078/m4-yatch-negra-interior-frontal_v9jy3y.jpg",
+            "alt": "Vista interior frontal M4 Yatch Negro"
           },
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingSuvM4+3",
-            "alt": "Vista izquierda Negro"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764958080/m4-yatch-negra-interior-trasera_z6wglg.jpg",
+            "alt": "Vista interior trasero M4 Yatch Negro"
           },
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingSuvM4+4",
-            "alt": "Vista trasera Negro"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764958047/m4-yatch-negra-interior_wbjbyi.jpg",
+            "alt": "Vista interior M4 Yatch Negro"
           },
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Negro+ForthingSuvM4+5",
-            "alt": "Vista interior Negro"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_800,q_auto,f_auto/v1764960055/m4-yatch-trasera_cb9ijj.png",
+            "alt": "Vista trasera trasero M4 Yatch Negro"
+          },
+          {
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_800,q_auto,f_auto/v1764960053/m4-yatch-abierta_h9lnie.png",
+            "alt": "Vista trasera abierta M4 Yatch Negro"
+          },
+          {
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764958082/m4-yatch-negra-motor_ewzhs7.jpg",
+            "alt": "Vista motor M4 Yatch Negro"
+          }
+        ]
+      },
+      {
+        "name": "Blanco",
+        "code": "rgba(255, 255, 255, 1)",
+        "images": [
+          {
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_800,q_auto,f_auto/v1764966409/m4-yatch-blanca_nsr7xq.png",
+            "alt": "Vista frontal Blanca"
           }
         ]
       }
@@ -628,35 +452,35 @@
         "code": "rgba(255, 255, 255, 1)",
         "images": [
           {
-            "url": "https://res.cloudinary.com/dtopqtz8a/image/upload/w_700,q_auto,f_auto/v1764791168/spresso-blanco-frontal_jedxfh.jpg",
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764972092/s-presso-frente_a8l7ra.jpg",
             "alt": "Vista Diagonal Spresso blanco"
           },
           {
-            "url": "https://res.cloudinary.com/dtopqtz8a/image/upload/w_700,q_auto,f_auto/v1764791169/spresso-blanco-frente_aviwuw.jpg",
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764972092/s-presso-frente-2_lomo0x.jpg",
             "alt": "Vista frontal Spresso blanco"
           },
           {
-            "url": "https://res.cloudinary.com/dtopqtz8a/image/upload/w_700,q_auto,f_auto/v1764791174/spresso-blanco-trasera_sbc9ow.jpg",
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764972093/s-presso-trasera-2_ud2aqn.jpg",
             "alt": "Vista Trasera Spresso blanco"
           },
           {
-            "url": "https://res.cloudinary.com/dtopqtz8a/image/upload/w_700,q_auto,f_auto/v1764791168/spresso-blanco-interior1_puryd3.jpg",
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/w_800,q_auto,f_auto/upload/v1764972616/s-pressp-interior-2_qfq0r5.png",
             "alt": "Vista interior puerta delantera spresso blanco"
           },
           {
-            "url": "https://res.cloudinary.com/dtopqtz8a/image/upload/w_700,q_auto,f_auto/v1764791173/spresso-blanco-interior2_d8ckz3.jpg",
+            "url": "https://res.cloudinary.com/dtopqtz8a/image/upload/w_800,q_auto,f_auto/v1764791173/spresso-blanco-interior2_d8ckz3.jpg",
             "alt": "Vista interior puerta trasera spresso blanco"
           },
           {
-            "url": "https://res.cloudinary.com/dtopqtz8a/image/upload/w_700,q_auto,f_auto/v1764791174/spresso-blanco-motor_urvzul.jpg",
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764972092/s-presso-motor_tfbnw6.jpg",
             "alt": "Vista motor spresso blanco"
           },
           {
-            "url": "https://res.cloudinary.com/dtopqtz8a/image/upload/w_600,q_auto,f_auto/v1764791167/spresso-blanco-interior_svsaag.jpg",
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764972092/s-presso-interior_oesztt.jpg",
             "alt": "Vista tablero spresso blanco"
           },
           {
-            "url": "https://res.cloudinary.com/dtopqtz8a/image/upload/w_700,q_auto,f_auto/v1764791174/spresso-blanco-trasera_sbc9ow.jpg",
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764972092/s-presso-trasera_pitpuh.jpg",
             "alt": "Vista trasera spresso blanco"
           }
         ]
@@ -666,24 +490,8 @@
         "code": "rgba(128, 132, 136, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_claro+SuzukiSpresso+1",
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_800,q_auto,f_auto/v1764973909/s-presso_gris_claro_byunis.png",
             "alt": "Vista frontal Gris"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_claro+SuzukiSpresso+2",
-            "alt": "Vista derecha Gris"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_claro+SuzukiSpresso+3",
-            "alt": "Vista izquierda Gris"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_claro+SuzukiSpresso+4",
-            "alt": "Vista trasera Gris"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_claro+SuzukiSpresso+5",
-            "alt": "Vista interior Gris"
           }
         ]
       },
@@ -692,24 +500,8 @@
         "code": "rgba(86, 87, 87, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_oscuro+SuzukiSpresso+1",
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_800,q_auto,f_auto/v1764974162/s-presso-gris-oscuro_ucwdyv.png",
             "alt": "Vista frontal Gris"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_oscuro+SuzukiSpresso+2",
-            "alt": "Vista derecha Gris"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_oscuro+SuzukiSpresso+3",
-            "alt": "Vista izquierda Gris"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_oscuro+SuzukiSpresso+4",
-            "alt": "Vista trasera Gris"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris_oscuro+SuzukiSpresso+5",
-            "alt": "Vista interior Gris"
           }
         ]
       }
@@ -738,24 +530,8 @@
         "code": "rgba(30, 81, 192, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Axul+SuzukiSwift+1",
-            "alt": "Vista frontal Azul"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Axul+SuzukiSwift+2",
-            "alt": "Vista derecha Azul"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Axul+SuzukiSwift+3",
-            "alt": "Vista izquierda Azul"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Axul+SuzukiSwift+4",
-            "alt": "Vista trasera Azul"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Axul+SuzukiSwift+5",
-            "alt": "Vista interior Azul"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764978517/Azul_20Frontier_20Perlado_20Metalizado_c8emr9.jpg",
+            "alt": "Vista frontal Suzuki Swift Azul"
           }
         ]
       },
@@ -764,24 +540,8 @@
         "code": "rgba(255, 0, 0, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Rojo+SuzukiSwift+1",
-            "alt": "Vista frontal Rojo"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Rojo+SuzukiSwift+2",
-            "alt": "Vista derecha Rojo"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Rojo+SuzukiSwift+3",
-            "alt": "Vista izquierda Rojo"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Rojo+SuzukiSwift+4",
-            "alt": "Vista trasera Rojo"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Rojo+SuzukiSwift+5",
-            "alt": "Vista interior Rojo"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764978577/rojo_20metalico_frhqgu.jpg",
+            "alt": "Vista frontal Suzuki Swift Rojo"
           }
         ]
       },
@@ -790,24 +550,8 @@
         "code": "rgba(125, 129, 129, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+SuzukiSwift+1",
-            "alt": "Vista frontal Gris"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+SuzukiSwift+2",
-            "alt": "Vista derecha Gris"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+SuzukiSwift+3",
-            "alt": "Vista izquierda Gris"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+SuzukiSwift+4",
-            "alt": "Vista trasera Gris"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+SuzukiSwift+5",
-            "alt": "Vista interior Gris"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764978861/swift_isg_gl_1000x493px_color-09_fihsxo.png",
+            "alt": "Vista frontal Suzuki Swift Gris"
           }
         ]
       }
@@ -836,24 +580,8 @@
         "code": "rgba(255, 255, 255, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiFronx+1",
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_800,q_auto,f_auto/v1765024892/Gemini_Generated_Image_htjk4ohtjk4ohtjk_msahzd.png",
             "alt": "Vista frontal Blanco"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiFronx+2",
-            "alt": "Vista derecha Blanco"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiFronx+3",
-            "alt": "Vista izquierda Blanco"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiFronx+4",
-            "alt": "Vista trasera Blanco"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiFronx+5",
-            "alt": "Vista interior Blanco"
           }
         ]
       },
@@ -862,24 +590,8 @@
         "code": "rgba(192, 192, 192, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Plateado+SuzukiFronx+1",
-            "alt": "Vista frontal Plateado"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Plateado+SuzukiFronx+2",
-            "alt": "Vista derecha Plateado"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Plateado+SuzukiFronx+3",
-            "alt": "Vista izquierda Plateado"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Plateado+SuzukiFronx+4",
-            "alt": "Vista trasera Plateado"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Plateado+SuzukiFronx+5",
-            "alt": "Vista interior Plateado"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_800,q_auto,f_auto/v1765024897/Gemini_Generated_Image_8bm9pp8bm9pp8bm9_dnx62a.png",
+            "alt": "Vista frontal Suzuki Fronx Plateado"
           }
         ]
       },
@@ -888,24 +600,8 @@
         "code": "rgba(71, 68, 68, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+SuzukiFronx+1",
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764980332/Fronx-gris_ddfbf9_mf8qs3.png",
             "alt": "Vista frontal Gris"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+SuzukiFronx+2",
-            "alt": "Vista derecha Gris"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+SuzukiFronx+3",
-            "alt": "Vista izquierda Gris"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+SuzukiFronx+4",
-            "alt": "Vista trasera Gris"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Gris+SuzukiFronx+5",
-            "alt": "Vista interior Gris"
           }
         ]
       }
@@ -934,50 +630,18 @@
         "code": "rgba(255, 255, 255, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiJimny+1",
-            "alt": "Vista frontal Blanco"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiJimny+2",
-            "alt": "Vista derecha Blanco"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiJimny+3",
-            "alt": "Vista izquierda Blanco"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiJimny+4",
-            "alt": "Vista trasera Blanco"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiJimny+5",
-            "alt": "Vista interior Blanco"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764982181/el-suzuki-jimny-diseno-y-expansion-global-del-todoterreno-compacto-5114904_ac9blc.png",
+            "alt": "Vista frontal Suzuki Jimny Blanco"
           }
         ]
       },
       {
-        "name": "Mostaza",
+        "name": "Verde Mostaza",
         "code": "rgba(161, 182, 43, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Mostaza+SuzukiJimny+1",
-            "alt": "Vista frontal Mostaza"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Mostaza+SuzukiJimny+2",
-            "alt": "Vista derecha Mostaza"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Mostaza+SuzukiJimny+3",
-            "alt": "Vista izquierda Mostaza"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Mostaza+SuzukiJimny+4",
-            "alt": "Vista trasera Mostaza"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Mostaza+SuzukiJimny+5",
-            "alt": "Vista interior Mostaza"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1764982245/bc04d9ff-2019-suzuki-jimny-1_s0dvku.jpg",
+            "alt": "Vista frontal Suzuki Jimny Verde Mostaza"
           }
         ]
       }
@@ -1008,24 +672,8 @@
         "code": "rgba(255, 255, 255, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiCarry+1",
-            "alt": "Vista frontal Blanco"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiCarry+2",
-            "alt": "Vista derecha Blanco"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiCarry+3",
-            "alt": "Vista izquierda Blanco"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiCarry+4",
-            "alt": "Vista trasera Blanco"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiCarry+5",
-            "alt": "Vista interior Blanco"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1765026466/NEW-CARRY_xqknix.jpg",
+            "alt": "Vista frontal Suzuki Carry Blanco"
           }
         ]
       }
@@ -1055,24 +703,8 @@
         "code": "rgba(255, 255, 255, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiEeco+1",
-            "alt": "Vista frontal Blanco"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiEeco+2",
-            "alt": "Vista derecha Blanco"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiEeco+3",
-            "alt": "Vista izquierda Blanco"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiEeco+4",
-            "alt": "Vista trasera Blanco"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+SuzukiEeco+5",
-            "alt": "Vista interior Blanco"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1765026549/eeco-panel_exterior_1700x830px_2_bu490i.jpg",
+            "alt": "Vista frontalSuzuki Eeco Van Blanco"
           }
         ]
       }
@@ -1101,24 +733,8 @@
         "code": "rgba(255, 255, 255, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingN697+1",
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_800,q_auto,f_auto/v1765027087/Gemini_Generated_Image_ghve73ghve73ghve_dz7f4b.png",
             "alt": "Vista frontal Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingN697+2",
-            "alt": "Vista derecha Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingN697+3",
-            "alt": "Vista izquierda Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingN697+4",
-            "alt": "Vista trasera Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingN697+5",
-            "alt": "Vista interior Blanca"
           }
         ]
       }
@@ -1149,24 +765,20 @@
         "code": "rgba(255, 255, 255, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingPlusN822+1",
-            "alt": "Vista frontal Blanca"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_800,q_auto,f_auto/v1765034733/Gemini_Generated_Image_yl467xyl467xyl46_triqp3.png",
+            "alt": "Vista frontal New Carrying Plus N822 3,5T Blanco"
           },
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingPlusN822+2",
-            "alt": "Vista derecha Blanca"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_800,q_auto,f_auto/v1765034732/Gemini_Generated_Image_bl238hbl238hbl23_ay9rtr.png",
+            "alt": "Vista trasera New Carrying Plus N822 3,5T Blanco"
           },
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingPlusN822+3",
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1765034741/3_5t_intrior_bnvpfo.jpg",
             "alt": "Vista izquierda Blanca"
           },
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingPlusN822+4",
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_800,q_auto,f_auto/v1765034731/Gemini_Generated_Image_x27uax27uax27uax_qgzq4o.png",
             "alt": "Vista trasera Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingPlusN822+5",
-            "alt": "Vista interior Blanca"
           }
         ]
       }
@@ -1197,20 +809,8 @@
         "code": "rgba(255, 255, 255, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingPlusN8224T+2",
-            "alt": "Vista derecha Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingPlusN8224T+3",
-            "alt": "Vista izquierda Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingPlusN8224T+4",
-            "alt": "Vista trasera Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcCarryingPlusN8224T+5",
-            "alt": "Vista interior Blanca"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_800,q_auto,f_auto/v1765035611/Gemini_Generated_Image_ixhd0sixhd0sixhd_smkhgx.png",
+            "alt": "Vista frontal derecha New Carrying Plus N822 4T Blanco"
           }
         ]
       }
@@ -1241,20 +841,8 @@
         "code": "rgba(255, 255, 255, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcConquerPlusN8225T+2",
-            "alt": "Vista derecha Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcConquerPlusN8225T+3",
-            "alt": "Vista izquierda Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcConquerPlusN8225T+4",
-            "alt": "Vista trasera Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcConquerPlusN8225T+5",
-            "alt": "Vista interior Blanca"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_800,q_auto,f_auto/v1765035611/Gemini_Generated_Image_ixhd0sixhd0sixhd_smkhgx.png",
+            "alt": "Vista frontal derecha New Carrying Plus N822 5T Blanco"
           }
         ]
       }
@@ -1286,20 +874,8 @@
         "code": "rgba(255, 255, 255, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcConquerPlusN8226T+2",
-            "alt": "Vista derecha Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcConquerPlusN8226T+3",
-            "alt": "Vista izquierda Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcConquerPlusN8226T+4",
-            "alt": "Vista trasera Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+JmcConquerPlusN8226T+5",
-            "alt": "Vista interior Blanca"
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_800,q_auto,f_auto/v1765035611/Gemini_Generated_Image_ixhd0sixhd0sixhd_smkhgx.png",
+            "alt": "Vista frontal derecha New Carrying Plus N822 6.1T Blanco"
           }
         ]
       }
@@ -1331,20 +907,8 @@
         "code": "rgba(255, 255, 255, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+Isuzu700p+2",
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_800,q_auto,f_auto/v1765036075/Gemini_Generated_Image_jbr17ijbr17ijbr1_nqyg2t.png",
             "alt": "Vista derecha Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+Isuzu700p+3",
-            "alt": "Vista izquierda Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+Isuzu700p+4",
-            "alt": "Vista trasera Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+Isuzu700p+5",
-            "alt": "Vista interior Blanca"
           }
         ]
       }
@@ -1375,20 +939,8 @@
         "code": "rgba(255, 255, 255, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+IsuzuFVR+2",
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/w_800,q_auto,f_auto/v1765047178/Gemini_Generated_Image_fs0sjdfs0sjdfs0s_kz401e.png",
             "alt": "Vista derecha Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+IsuzuFVR+3",
-            "alt": "Vista izquierda Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+IsuzuFVR+4",
-            "alt": "Vista trasera Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+IsuzuFVR+5",
-            "alt": "Vista interior Blanca"
           }
         ]
       }
@@ -1419,20 +971,8 @@
         "code": "rgba(255, 255, 255, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+IsuzuGiga4x2+2",
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1765048551/Hc275292791e04e31b9fd90f58a0bfe48o_jn3yge.webp",
             "alt": "Vista derecha Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+IsuzuGiga4x2+3",
-            "alt": "Vista izquierda Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+IsuzuGiga4x2+4",
-            "alt": "Vista trasera Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+IsuzuGiga4x2+5",
-            "alt": "Vista interior Blanca"
           }
         ]
       }
@@ -1463,20 +1003,8 @@
         "code": "rgba(255, 255, 255, 1)",
         "images": [
           {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+IsuzuGiga6x2Vc61+2",
+            "url": "https://res.cloudinary.com/dsoeuisqi/image/upload/v1765048640/H057cc96531b04de780b7614cbac69bbe1_den5v0.webp",
             "alt": "Vista derecha Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+IsuzuGiga6x2Vc61+3",
-            "alt": "Vista izquierda Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+IsuzuGiga6x2Vc61+4",
-            "alt": "Vista trasera Blanca"
-          },
-          {
-            "url": "https://placehold.co/800x600/000000/FFFFFF?text=Blanco+IsuzuGiga6x2Vc61+5",
-            "alt": "Vista interior Blanca"
           }
         ]
       }
