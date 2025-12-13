@@ -45,7 +45,7 @@ export const createEvent = async (req: Request, res: Response) => {
           { method: "email", minutes: 0 },
           { method: "popup", minutes: 1440 },
           { method: "email", minutes: 1440 },
-          { method: "popup", minutes: 2880 },          
+          { method: "popup", minutes: 2880 },
         ],
       },
     };
@@ -63,6 +63,9 @@ export const createEvent = async (req: Request, res: Response) => {
     });
   } catch (error: any) {
     console.error("Error creando evento:", error);
-    res.status(500).json({ error: "No se pudo crear el evento" });
+    const message =
+      error?.response?.data?.error?.message || "No se pudo crear el evento";
+    res.status(500).json({ error: message });
   }
+
 };
