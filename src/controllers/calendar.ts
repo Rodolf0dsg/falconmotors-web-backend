@@ -63,9 +63,13 @@ export const createEvent = async (req: Request, res: Response) => {
     });
   } catch (error: any) {
     console.error("Error creando evento:", error);
+
+    // Extraer mensaje de error de Google si existe
     const message =
-      error?.response?.data?.error?.message || "No se pudo crear el evento";
+      error?.response?.data?.error?.message ||
+      error?.message ||
+      "No se pudo crear el evento";
+
     res.status(500).json({ error: message });
   }
-
 };
