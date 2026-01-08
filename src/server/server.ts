@@ -4,8 +4,9 @@ import { dbConnection } from '../database/config';
 
 import commentsRouter from '../routes/comments';
 import vehiclesRouter from '../routes/vehicles';
-import emailRouter from    '../routes/email';
+import emailRouter    from    '../routes/email';
 import calendarRouter from '../routes/calendar';
+import authRouter     from "../routes/auth";
 
 export class Server {
 
@@ -25,7 +26,7 @@ export class Server {
         this.paths = {
             comments: '/api/comments',
             vehicles: '/api/vehicles',
-            email: '/api/email',
+            email:    '/api/email',
             calendar: '/api/calendar'
         };
 
@@ -61,8 +62,11 @@ export class Server {
     routes(){
       this.app.use( this.paths.comments , commentsRouter);
       this.app.use( this.paths.vehicles , vehiclesRouter);
-      this.app.use( this.paths.email ,    emailRouter);
+      this.app.use( this.paths.email    , emailRouter);
       this.app.use( this.paths.calendar , calendarRouter);
+
+      //Ruta de oauth, no se usa el objeto this.paths porque la ruta fue especificada en gcp como "/"
+      this.app.use('/', authRouter);
     };
 
     listen() {
