@@ -6,9 +6,9 @@ const router = Router();
 
 router.post("/create", async (req, res) => {
   try {
-    const { date, time, clientName, contact, notes, service } = req.body;
+    const { date, time, clientName, contact, notes, service, vehicle } = req.body;
 
-    const result = await createEventAPI(date, time, clientName, contact, notes, service);
+    const result = await createEventAPI(date, time, clientName, contact, notes, service, vehicle);
 
     res.status(200).json({
       ok: true,

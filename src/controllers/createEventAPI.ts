@@ -1,9 +1,9 @@
 import { calendar } from "../google/calendarClient";
 
-export async function createEventAPI(date: string, time: string, clientName: string, contact: string, notes: string, service: string) {
+export async function createEventAPI(date: string, time: string, clientName: string, contact: string, notes: string, service: string, vehicle: string) {
 const event = {
   summary: `Cita: ${service} con ${clientName}`,
-  description: `Cliente: ${clientName}\nTeléfono: ${contact}\nNotas: ${notes}`,
+  description: `Cliente: ${clientName}\nTeléfono: ${contact}\nNotas: ${notes}\nVehiculo: ${vehicle}`,
   start: {
     dateTime: `${date}T${time}:00`,
     timeZone: "America/Caracas",
